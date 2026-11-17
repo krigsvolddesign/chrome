@@ -17,3 +17,4 @@ jobs:
         with:
           name: krigsvold-chrome
           path: dist/
+          retention-days: 7
